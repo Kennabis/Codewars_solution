@@ -1,0 +1,7 @@
+//Area of square
+
+function squareArea(A){
+  let r = A * 2 / Math.PI;
+  let sqr = r * r
+  return +sqr.toFixed(2);
+}
