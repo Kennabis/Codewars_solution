@@ -1,4 +1,7 @@
 // https://www.codewars.com/kata/570669d8cb7293a2d1001473/train/javascript
+// return !!null;
+// return !!0;
+// return Boolean(0);
 
 function ifChuckSaysSo(){
   return !true;
