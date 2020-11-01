@@ -1,0 +1,5 @@
+// https://app.pasv.us/group/5f5fedb47d79c1003cd26b77/lecture/5f749583c13894003c7f1bc9
+
+function trueOrFalse(val){
+return !!val + '';
+}
